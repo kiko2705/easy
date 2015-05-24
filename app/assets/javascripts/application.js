@@ -16,7 +16,6 @@
 //= require bootstrap
 //= require_tree
 //= require forem
-//= require jquery-ui
 //= require jquery.nested-fields
 //= require cocoon
 //= require nested_form_fields
